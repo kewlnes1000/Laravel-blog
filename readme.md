@@ -1,7 +1,8 @@
 # Laravel blog Learning
 > Author : Alex  
 > Date : 2018-02-27  
-
+> [Laravel 5.5 中文文檔](http://laravelacademy.org/laravel-docs-5_5)
+> [Laravel doucument 英文](https://laravel.com/docs/5.6)
 
 ## 在windows系統使用Composer建立Laravel
 ### 安裝Composer
