@@ -27,7 +27,7 @@ C:\xampp\htdocs\laraveltest>composer create-project laravel/laravel blog --prefe
 ```
 
 ### xampp 修改配置
-1. PHP版本需求 >= 5.5.9
+1. PHP >= 7.1.3 (composer會對照版本安裝，以Laravel5.6為例)
 2. 開啟C:\xampp\apache\conf\httpd.conf
 ```
 啟用 LoadModule rewrite_module modules/mod_rewrite.so
